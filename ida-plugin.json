@@ -1,0 +1,13 @@
+{
+  "IDAMetadataDescriptorVersion": 2,
+  "plugin": {
+    "name": "IDA-DiscordRPC",
+    "entryPoint": "IDA-DiscordRPC64",
+    "categories": [
+      "Discord RPC"
+    ],
+    "idaVersions": ">=9.4",
+    "description": "A fully customizable plugin used to show your current IDA activity on Discord.",
+    "version": "1.0.0"
+  }
+}

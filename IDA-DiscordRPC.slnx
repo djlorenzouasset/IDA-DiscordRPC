@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IDA-DiscordRPC/IDA-DiscordRPC.vcxproj" Id="eb6daaeb-cc27-4869-be8c-48be4dfff10e" />
+</Solution>

@@ -44,8 +44,8 @@ cmake --build build --config Release
 
 ## Screenshots
 Idle\
-<img width="484" height="214" alt="image" src="./github/assets/Screenshot_1.png" />\
+<img width="484" height="214" alt="image" src="./github/Screenshot_1.png" />\
 With a file opened\
-<img width="488" height="250" alt="image" src="./github/assets/Screenshot_2.png" />\
+<img width="488" height="250" alt="image" src="./github/Screenshot_2.png" />\
 Plugin settings (`CTRL+ALT+R`)\
-<img width="369" height="583" alt="image" src="./github/assets/Screenshot_3.png" />
+<img width="369" height="583" alt="image" src="./github/Screenshot_3.png" />
